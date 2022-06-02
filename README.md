@@ -2,6 +2,10 @@
 
 This repository is an archive for a simple demo program for LSCM from [OpenNL](http://alice.loria.fr/index.php/software/4-library/23-opennl.html) (Open Numerical Library). 
 
+<p align="center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hjMx8EuyZJ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
 
 1. Build and Compile
 ```sh
