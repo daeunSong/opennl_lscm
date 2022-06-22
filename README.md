@@ -19,3 +19,4 @@ It will generate an obj file with texture coordinate (uv coordinate), indicated 
 ```sh
 python3 -i plot_test.py
 ```
+The plotting script assumes the data to be triangulated with vertex normals provided.
