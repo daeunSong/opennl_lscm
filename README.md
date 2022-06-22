@@ -1,6 +1,6 @@
 # Least Squares Conformal Mapping (LSCM)
 
-This repository is an archive for a simple demo program for LSCM from [OpenNL](http://alice.loria.fr/index.php/software/4-library/23-opennl.html) (Open Numerical Library). 
+This repository is an archive for a simple demo program for LSCM from [OpenNL](http://alice.loria.fr/index.php/software/4-library/23-opennl.html) (Open Numerical Library). Copy right goes to [Bruno Lévy](https://members.loria.fr/BLevy/).
 
 
 1. Build and Compile
